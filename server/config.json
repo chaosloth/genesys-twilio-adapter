@@ -1,0 +1,14 @@
+{
+  "http": {
+    "port": 9094,
+    "securePort": 9095
+  },
+  "twilio": {
+    "cli":"+19176248011",
+  	"apiToken": "5ce11a68881303565aed797945298f00",
+  	"accountSid": "AC1b543218aa81b78aa792b1ab88a3c11a",
+  	"callRouterAppSid": "AP0531ab21b5c122cb6bae8830621b6ae3",
+  	"agentRouterAppSid": "AP586bac3c2b0f5943e828c0a1e1aa2d31",
+    "webRouterAppSid": "AP66f34a07bcd6972e655ce20e1ad0c0fe"
+  }
+}

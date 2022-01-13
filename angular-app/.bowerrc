@@ -1,0 +1,8 @@
+{
+    "directory": "app/libs",
+    	"genesysregistry":{
+		"baseUrl": "http://ci-vm30.us.int.genesyslab.com:8200",
+		"basePath": "nexus/service/local/repositories",
+		"repository": "ag-prod"
+   }
+}

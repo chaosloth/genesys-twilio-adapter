@@ -1,0 +1,31 @@
+{
+  "name": "json3",
+  "version": "3.2.6",
+  "main": "lib/json3.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bestiejs/json3.git"
+  },
+  "ignore": [
+    ".*",
+    "build.js",
+    "index.html",
+    "index.js",
+    "component.json",
+    "package.json",
+    "benchmark",
+    "page",
+    "test",
+    "vendor"
+  ],
+  "_cacheHeaders": {
+    "ETag": "\"{SHA1{585ee1280df56dbd8437a65d012d2c5e95b501db}}\"",
+    "Last-Modified": "Fri, 07 Mar 2014 21:58:52 GMT",
+    "Content-Length": "5145893",
+    "Content-Type": "application/x-gzip"
+  },
+  "_release": "3.2.6",
+  "_source": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/ark/json3/3.2.6/json3-3.2.6.tar.gz",
+  "_target": "3.2.6",
+  "_originalSource": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/ark/json3/3.2.6/json3-3.2.6.tar.gz"
+}

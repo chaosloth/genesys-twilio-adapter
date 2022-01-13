@@ -1,0 +1,20 @@
+{
+  "name": "genesys-conno-proxy",
+  "description": "Web Proxy",
+  "author":"Christopher Connolly",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.3.1",
+    "express": "3.x",
+    "morgan": "^1.1.1",
+    "request": "latest",
+    "nconf": "latest",
+    "body-parser": "latest",
+    "twilio": "latest"
+  },
+  "scripts": {
+    "install-windows-service": "winser -i",
+    "uninstall-windows-service": "winser -r"
+  }
+}

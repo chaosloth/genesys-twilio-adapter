@@ -1,0 +1,111 @@
+{
+  "name": "Ark Components",
+  "version": "1.0.000.13",
+  "main": [
+    "./dist/scripts/ark-components-min.js",
+    "./dist/styles/ark-components-min.css"
+  ],
+  "ignore": [
+    "_config.yml"
+  ],
+  "dependencies": {
+    "angular": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "angular",
+      "ext": "tar.gz",
+      "version": "1.2.16"
+    },
+    "jquery": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "com.jquery",
+      "name": "jquery",
+      "ext": "tar.gz",
+      "version": "2.1.0"
+    },
+    "json3": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "json3",
+      "ext": "tar.gz",
+      "version": "3.2.6"
+    },
+    "es5-shim": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "es5-shim",
+      "ext": "tar.gz",
+      "version": "2.1.0"
+    },
+    "angular-resource": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "angular-resource",
+      "ext": "tar.gz",
+      "version": "1.2.16"
+    },
+    "angular-cookies": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "angular-cookies",
+      "ext": "tar.gz",
+      "version": "1.2.16"
+    },
+    "angular-route": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "angular-route",
+      "ext": "tar.gz",
+      "version": "1.2.16"
+    },
+    "angular-sanitize": {
+      "repository": "ag-thirdparty-prod",
+      "group_id": "ark",
+      "name": "angular-sanitize",
+      "ext": "tar.gz",
+      "version": "1.2.16"
+    },
+    "ark-style": {
+      "group_id": "com.genesyslab.ark",
+      "name": "ark-style",
+      "ext": "tar.gz",
+      "version": "*"
+    }
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.16",
+    "angular-scenario": "1.2.16"
+  },
+  "authors": [
+    {
+      "name": "Clive John-Chuan",
+      "email": "clive.john-chuan@genesys.com",
+      "username": "camelot\\cjohncha",
+      "publisher": true
+    }
+  ],
+  "comments": "test PBAS build",
+  "src-repository": {
+    "type": "HG",
+    "url": "http://hg-vm01.genesyslab.com/hgweb.cgi/ark_components",
+    "project-root": "/"
+  },
+  "tag": "release-1.0.000.13",
+  "reviewers": [
+    {
+      "role": "UX",
+      "name": "John Doe",
+      "email": "john.doe@genesys.com"
+    },
+    {
+      "role": "FOSS",
+      "name": "Alex Lee",
+      "email": "alex.lee@genesys.com"
+    },
+    {
+      "role": "ARK core team",
+      "name": "ARK Developers",
+      "email": "arkdevelopers@genesys.com"
+    }
+  ]
+}

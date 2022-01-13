@@ -1,0 +1,80 @@
+{
+  "name": "Ark Style",
+  "version": "1.0.000.22",
+  "main": [
+    "./dist/css/ark-css.css",
+    "./dist/js/ark-css.js",
+    "./dist/fonts/ark-icons-a2368cbca7d2de0dde0ce2fd7ef57726.eot",
+    "./dist/fonts/ark-icons-a2368cbca7d2de0dde0ce2fd7ef57726.woff",
+    "./dist/fonts/ark-icons-a2368cbca7d2de0dde0ce2fd7ef57726.svg",
+    "./dist/fonts/ark-icons-a2368cbca7d2de0dde0ce2fd7ef57726.ttf",
+    "./dist/fonts/ark-icons-a2368cbca7d2de0dde0ce2fd7ef57726-hinted.ttf",
+    "./dist/fonts/Roboto-Light.eot",
+    "./dist/fonts/Roboto-Light.woff",
+    "./dist/fonts/Roboto-Regular.eot",
+    "./dist/fonts/Roboto-Regular.woff",
+    "./dist/fonts/Roboto-Italic.eot",
+    "./dist/fonts/Roboto-Italic.woff",
+    "./dist/fonts/Roboto-Bold.eot",
+    "./dist/fonts/Roboto-Bold.woff"
+  ],
+  "ignore": [
+    "**/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "authors": [
+    {
+      "name": "Kamaldeep Cheema",
+      "email": "kamaldeep.cheema@genesys.com",
+      "username": "camelot\\kcheema",
+      "publisher": true
+    },
+    {
+      "name": "Ark Developers",
+      "email": "ARKDevelopers@genesys.com"
+    }
+  ],
+  "comments": "Updates to popovers, dropdowns, navbar, etc.",
+  "src-repository": {
+    "type": "HG",
+    "url": "http://hg-vm01.genesyslab.com/hgweb.cgi/ark_style",
+    "project-root": "/"
+  },
+  "tag": "release-1.0.000.22",
+  "reviewers": [
+    {
+      "role": "UX",
+      "name": "Steven Gans",
+      "email": "steven.gans@genesys.com"
+    },
+    {
+      "role": "FOSS",
+      "name": "David Beilis",
+      "email": "david.beilis@genesys.com"
+    },
+    {
+      "role": "ARK core team",
+      "name": "Rakesh Tailor",
+      "email": "rakesh.tailor@genesys.com"
+    }
+  ],
+  "_cacheHeaders": {
+    "ETag": "\"{SHA1{b63c5e273fdaf9797a78bef918028e387b8705a0}}\"",
+    "Last-Modified": "Thu, 19 Jun 2014 18:56:31 GMT",
+    "Content-Length": "780132",
+    "Content-Type": "application/x-gzip",
+    "Content-Disposition": "attachment; filename=\"ark-style-1.0.00022.tar.gz\""
+  },
+  "_release": "*",
+  "_source": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/artifact/maven/content?r=ag-prod&g=com.genesyslab.ark&e=tar.gz&a=ark-style&v=LATEST",
+  "_target": "*",
+  "_originalSource": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/artifact/maven/content?r=ag-prod&g=com.genesyslab.ark&e=tar.gz&a=ark-style&v=LATEST"
+}

@@ -1,0 +1,25 @@
+Instructions to run sample app
+
+{-- Need to be on a corporate network --}
+
+1. Install GPM instruction is on:
+https://intranet.genesys.com/display/CUFG/Genesys+Package+Manager
+
+2. Use GPM to install lib under app:
+gpm install
+
+2.1 install git if needed 
+
+2.2 If bower_component does not install because git not is allowed in firewall:
+git config --global url."https://".insteadOf git://
+
+{-- Need to be on a public network --}
+
+3. Run the following command to install all the dependencies:
+npm install
+
+4. Run the following command to build and start running test:
+grunt
+
+4.1 to run server
+grunt serve

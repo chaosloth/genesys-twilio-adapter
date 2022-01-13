@@ -1,0 +1,37 @@
+{
+  "name": "jquery",
+  "version": "2.1.0",
+  "main": "dist/jquery.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "devDependencies": {
+    "sizzle": "1.10.16",
+    "requirejs": "~2.1.8",
+    "qunit": "~1.12.0",
+    "sinon": "~1.7.3"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "_cacheHeaders": {
+    "ETag": "\"{SHA1{d83b77d4cfd027a80a40a0ffa6b6be48923db338}}\"",
+    "Last-Modified": "Fri, 07 Mar 2014 21:58:19 GMT",
+    "Content-Length": "710929",
+    "Content-Type": "application/x-gzip"
+  },
+  "_release": "2.1.0",
+  "_source": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/com/jquery/jquery/2.1.0/jquery-2.1.0.tar.gz",
+  "_target": "2.1.0",
+  "_originalSource": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/com/jquery/jquery/2.1.0/jquery-2.1.0.tar.gz"
+}

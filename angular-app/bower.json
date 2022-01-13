@@ -1,0 +1,57 @@
+{
+  "name": "GPE Inspector Concept",
+  "author": "Christophe Connolly",
+  "version": "1.0.000.00",
+  "dependencies": {
+    "jquery": {
+      "repository": "ag-thirdparty-prod",
+      "group_id":"com.jquery",
+      "name":"jquery",
+      "ext":"tar.gz",
+      "version":"2.1.0"
+    },
+    "json3": {
+      "repository": "ag-thirdparty-prod",
+      "group_id":"ark",
+      "name":"json3",
+      "ext":"tar.gz",
+      "version":"3.2.6"
+    },
+    "es5-shim": {
+      "repository": "ag-thirdparty-prod",
+      "group_id":"ark",
+      "name":"es5-shim",
+      "ext":"tar.gz",
+      "version":"2.1.0"
+    },
+    "angular-bootstrap": "*",
+    "angular-resource": "1.2.16",
+    "angular-cookies": "1.2.16",
+    "angular-sanitize": "1.2.16",
+    "angular-route": "1.2.16",
+    "angular-mocks": "1.2.16",
+    "angular-animate": "latest",
+    "underscore": "~1.6.0",
+    "angular-loading-bar": "~0.5.0",
+    "fastclick": "*",
+    "highlight.js": "latest",
+
+    "ark-style": {
+      "group_id":"com.genesyslab.ark",
+      "name":"ark-style",
+      "ext":"tar.gz",
+      "version":"*"
+    },
+    "ark-components": {
+      "group_id":"com.genesyslab.ark",
+      "name":"ark-components",
+      "ext":"tar.gz",
+      "version":"*"
+    }
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.16",
+    "angular-scenario": "1.2.16"
+  },
+  "tag": "request-1.0.000.00"
+}

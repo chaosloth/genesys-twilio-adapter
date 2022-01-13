@@ -1,0 +1,18 @@
+{
+  "name": "angular-cookies",
+  "version": "1.2.16",
+  "main": "./angular-cookies.js",
+  "dependencies": {
+    "angular": "1.2.16"
+  },
+  "_cacheHeaders": {
+    "ETag": "\"{SHA1{fafb6f0a66478967fd271e5b60fc91b1cd11e992}}\"",
+    "Last-Modified": "Thu, 05 Jun 2014 21:39:00 GMT",
+    "Content-Length": "4913",
+    "Content-Type": "application/x-gzip"
+  },
+  "_release": "1.2.16",
+  "_source": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/ark/angular-cookies/1.2.16/angular-cookies-1.2.16.tar.gz",
+  "_target": "1.2.16",
+  "_originalSource": "http://ci-vm30.us.int.genesyslab.com:8200/nexus/service/local/repositories/ag-thirdparty-prod/content/ark/angular-cookies/1.2.16/angular-cookies-1.2.16.tar.gz"
+}
